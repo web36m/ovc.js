@@ -1,0 +1,24 @@
+{
+  "name": "ovc.js",
+  "version": "1.0.1",
+  "description": "Control of versions object",
+  "main": "dist/ovc.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web36m/ovc.js.git"
+  },
+  "author": {
+    "name": "ovcjs author and other contributors",
+    "url": "https://github.com/web36m/ovc.js/blob/master/AUTHORS.txt"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/web36m/ovc.js/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/web36m/ovc.js/issues"
+  },
+  "homepage": "https://github.com/web36m/ovc.js"
+}
